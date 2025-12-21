@@ -12,6 +12,7 @@ class Smartphone:
 # creating object of the class
 phoneObj = Smartphone("Smartphone", "Neo one")
 print(phoneObj.description())
+# This is a comment just to test git reset.
 
 
 class Desktop:
